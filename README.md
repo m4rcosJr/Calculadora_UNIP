@@ -1,5 +1,5 @@
 
-📌 Calculadora Projeto Integrador Interdisciplinar (UNIP)
+📌 Calculadora Projeto Integrador Multidisciplinar(UNIP)
 
 Este repositório contém um projeto desenvolvido como parte de um trabalho multidisciplinar da universidade. O programa é uma calculadora interativa em Python, que oferece diversas operações matemáticas, incluindo soma, subtração, multiplicação, divisão, cálculo de Bhaskara, regra de três e muito mais.
 
